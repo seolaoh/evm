@@ -58,6 +58,8 @@ op-alloy-rpc-types-engine = { version = "0.20", default-features = false }
 revm = { version = "30.0.0", default-features = false }
 op-revm = { version = "11.0.0", default-features = false }
 
+tracing = { version = "0.1.41", default-features = false }
+
 # misc
 auto_impl = "1"
 derive_more = { version = "2", default-features = false, features = ["full"] }
